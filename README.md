@@ -4,6 +4,8 @@ This repository contains the source code and assets for **The Gradient Club** We
 
 This was a special page built by Gradient to showcase our events for the anual cultural symposium Utsav Ananta 2025
 
+Visit this site : [GradientAIML.tech/utsav25](https://GradientAIML.tech/utsav25)
+
 Visit our website: [GradientAIML.tech](https://GradientAIML.tech)
 
 ## About
